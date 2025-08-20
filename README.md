@@ -196,29 +196,12 @@ cp .env.example .env
 # .env 파일을 열고 실제 값으로 수정
 ```
 
-#### Flutter 앱 설정
-
-```bash
-cd todakhanip
-
-# 의존성 설치
-flutter pub get
-
-# 환경 변수 설정
-cp .env.example .env
-# .env 파일을 열고 실제 값으로 수정
-```
-
 ### 2. 서버 실행
 
 ```bash
 # API 서버 실행
 cd todakhanip-api
 python app.py
-
-# Flutter 앱 실행
-cd todakhanip
-flutter run
 ```
 
 ## 📱 API 엔드포인트
@@ -292,13 +275,6 @@ python health_analysis_test.py
 
 # 종합 분석 테스트
 python test_comprehensive_analysis.py
-```
-
-### Flutter 앱 테스트
-
-```bash
-cd todakhanip
-flutter test
 ```
 
 ## 🔒 보안
