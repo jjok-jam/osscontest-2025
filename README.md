@@ -1,4 +1,4 @@
-# LabelSafe (토닥한입) - 건강한 선택을 위한 스마트 라벨 분석 시스템
+# TodakHanip (토닥한입) - 인공지능 기반 나만의 가공식품 건강 분석 서비스
 
 <div align="center">
   <img src="todakhanip/assets/logo/logo-5.png" alt="LabelSafe Logo" width="200"/>
