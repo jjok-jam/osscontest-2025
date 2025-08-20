@@ -1,0 +1,16 @@
+{
+  "name": "홍길동",
+  "job": "연구원",
+  "notes": "고도비만",
+  "gender": "남",
+  "birth_year": 1982,
+  "weight": 93,
+  "height": 183,
+  "activity_level": "보통",
+  "has_diabetes": "아니오",
+  "has_hypertension": "예",
+  "systolic_bp": "150",
+  "diastolic_bp": "80",
+  "has_allergies": "예",
+  "selected_allergies": "알류,우유,메밀"
+}

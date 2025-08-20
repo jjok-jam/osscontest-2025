@@ -1,0 +1,110 @@
+{
+  "code": "3017620422003",
+  "brands": "Ferrero",
+  "countries_tags": [
+    "en:belgium",
+    "en:france",
+    "en:germany",
+    "en:india",
+    "en:italy",
+    "en:luxembourg",
+    "en:morocco",
+    "en:netherlands",
+    "en:philippines",
+    "en:poland",
+    "en:romania",
+    "en:spain",
+    "en:switzerland",
+    "en:turkey",
+    "en:united-kingdom",
+    "en:united-states"
+  ],
+  "product_name": "Nutella",
+  "product_name_en": "Nutella",
+  "product_type": "식품",
+  "product_quantity": "400",
+  "product_quantity_unit": "g",
+  "quantity": "400 g",
+  "allergens_tags": ["우유", "견과류", "대두"],
+  "food_groups_tags": ["당류 간식", "사탕류"],
+  "nutriscore_grade": "e",
+  "nutrient_levels": {
+    "fat": "high",
+    "saturated-fat": "high",
+    "sugars": "high",
+    "salt": "low"
+  },
+  "nutriments": {
+    "fat_100g": 30.9,
+    "saturated-fat_100g": 10.6,
+    "sugars_100g": 56.3,
+    "salt_100g": 0.107
+  },
+  "ingredients": [
+    {
+      "text": "Sucre",
+      "percent_estimate": 38.35,
+      "processing": "가공 정보 없음",
+      "vegan": "yes",
+      "vegetarian": "yes"
+    },
+    {
+      "text": "huile de palme",
+      "percent_estimate": 24.75,
+      "processing": "가공 정보 없음",
+      "vegan": "yes",
+      "vegetarian": "yes"
+    },
+    {
+      "text": "NOISETTES",
+      "percent_estimate": 13,
+      "processing": "가공 정보 없음",
+      "vegan": "yes",
+      "vegetarian": "yes"
+    },
+    {
+      "text": "cacao maigre",
+      "percent_estimate": 7.4,
+      "processing": "가공 정보 없음",
+      "vegan": "yes",
+      "vegetarian": "yes"
+    },
+    {
+      "text": "LAIT écrémé en poudre",
+      "percent_estimate": 6.6,
+      "processing": "가공 정보 없음",
+      "vegan": "no",
+      "vegetarian": "yes"
+    },
+    {
+      "text": "LACTOSERUM en poudre",
+      "percent_estimate": 3.3,
+      "processing": "가공 정보 없음",
+      "vegan": "no",
+      "vegetarian": "maybe"
+    },
+    {
+      "text": "émulsifiants",
+      "percent_estimate": 3.3,
+      "processing": "가공 정보 없음",
+      "vegan": "비건 여부 정보 없음",
+      "vegetarian": "채식주의자 여부 정보 없음"
+    },
+    {
+      "text": "vanilline",
+      "percent_estimate": 3.30000000000001,
+      "processing": "가공 정보 없음",
+      "vegan": "비건 여부 정보 없음",
+      "vegetarian": "채식주의자 여부 정보 없음"
+    }
+  ],
+  "serving_quantity": "15",
+  "serving_quantity_unit": "g",
+  "serving_size": "15 g",
+  "image_front_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/front_en.633.400.jpg",
+  "image_ingredients_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/ingredients_fr.760.400.jpg",
+  "image_nutrition_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/nutrition_fr.758.400.jpg",
+  "image_packaging_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/packaging_en.526.400.jpg",
+  "image_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/front_en.633.400.jpg",
+  "image_thumb_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/front_en.633.100.jpg"
+}
