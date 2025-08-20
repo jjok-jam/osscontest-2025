@@ -25,6 +25,7 @@ TodakHanip (토닥한입)은 개인의 건강 프로필을 기반으로 식품 �
 ## 🏗️ 시스템 아키텍처
 
 ### TodakHanip 시스템 구조도
+![토닥한입 시스템 아키텍처](https://github.com/user-attachments/assets/72722f86-1fb5-43da-b41e-6c5d0fb9e47b)
 
 ### 데이터 흐름
 
