@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# 보안 관련 파일들
+# Environment variables and secrets
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+# API keys and sensitive configuration
+secrets.*
+credentials.*
+*.key
+*.pem
+*.crt
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+# Logs and temporary files
+*.log
+logs/
+temp/
+tmp/
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
