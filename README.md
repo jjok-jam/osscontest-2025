@@ -11,7 +11,7 @@
 
 ## 📋 프로젝트 개요
 
-TodakHanip (토닥한입)은 개인의 건강 프로필을 기반으로 식품 라벨을 분석하여 맞춤형 건강 정보를 제공하는 스마트 시스템입니다. 
+TodakHanip (토닥한입)은 개인의 건강 프로필을 기반으로 식품 라벨을 분석하여 맞춤형 건강 정보를 제공하는 스마트 시스템입니다.
 바코드 스캔을 통해 제품 정보를 조회하고, AI 기반 건강 분석을 통해 개인에게 최적화된 식품 선택 가이드를 제공합니다.
 
 ### 🎯 주요 기능
@@ -25,6 +25,7 @@ TodakHanip (토닥한입)은 개인의 건강 프로필을 기반으로 식품 �
 ## 🏗️ 시스템 아키텍처
 
 ### TodakHanip 시스템 구조도
+
 ![토닥한입 시스템 아키텍처](https://github.com/user-attachments/assets/72722f86-1fb5-43da-b41e-6c5d0fb9e47b)
 
 ### 데이터 흐름
@@ -73,7 +74,7 @@ osscontest-2025/
 
 - **Flask**: RESTful API 서버
 - **OpenAI GPT-4**: AI 기반 건강 분석
-- **OpenFoodFacts API**: 제품 정보 조회
+- **OpenFoodFacts API**: 제품 정보 조회 ([Open Food Facts](https://world.openfoodfacts.org/))
 - **MongoDB**: 번역 데이터 저장
 - **ThreadPoolExecutor**: 병렬 처리
 
@@ -314,6 +315,19 @@ flutter test
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## 📚 데이터 출처
+
+이 프로젝트는 다음과 같은 오픈 데이터를 활용합니다:
+
+### Open Food Facts
+
+- **웹사이트**: [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/)
+- **설명**: 전 세계 식품 제품 데이터베이스로, 모든 사람이 기여하고 모든 사람이 사용할 수 있는 협업적이고 무료이며 개방된 데이터베이스입니다.
+- **라이선스**: Open Database License (ODbL)
+- **용도**: 제품 정보, 영양 성분, 원료 정보, 알레르기 정보 등 식품 관련 데이터 제공
+
+Open Food Facts는 비영리 프로젝트로, 전 세계 수천 명의 자원봉사자들이 개발한 프로젝트입니다. 이 프로젝트를 통해 더 나은 식품 선택을 할 수 있으며, 개방된 데이터이므로 누구나 어떤 목적으로든 재사용할 수 있습니다.
 
 ## 📄 라이선스
 
